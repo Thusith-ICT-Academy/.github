@@ -81,8 +81,8 @@ To empower students with modern ICT knowledge, practical skills, creativity, and
 
 ## 🌍 Connect With Us
 
-- 🌐 Website: https://thusithictacademy.lk
-- 📘 Facebook: https://facebook.com/thusithictacademy
+- 🌐 Website: http://thusith.appj.uk
+- 📘 Facebook: https://facebook.com/thusith.ict.academy
 - 📺 YouTube: https://youtube.com/@thusithictacademy
 - 💬 WhatsApp: https://wa.me/94775802112
 
