@@ -4,7 +4,7 @@
 
 ### Building Future IT Generations
 
-<img src="https://raw.githubusercontent.com/Thusith-ICT-Academy/.github/main/profile/logo.png" width="180" alt="Thusith ICT Academy Logo"/>
+<img src="https://thusith.appj.uk/logo.png" width="180" alt="Thusith ICT Academy Logo"/>
 
 <br>
 
